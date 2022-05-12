@@ -4,7 +4,7 @@
 <p>O FlexBlog é um site que foi feito completamente usando a propriedade flexbox do css. Ele também é responsivo e se adapta a computadores, tablets e celulares. <br>
 Ele foi desenvolvido enquanto eu fazia o curso de Flexbox, da Origamid.</p>
 
-Acesse o site clicando [aqui.](https://enniohenrique.github.io/bikcraft/)
+Acesse o site clicando [aqui.](https://enniohenrique.github.io/flexblog/)
 
 ## Tecnologias utilizadas 
 
